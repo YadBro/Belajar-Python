@@ -1,0 +1,2 @@
+Method read() membaca seluruh teks dan akan mengembalikan nilai string.
+Sedangkan readlines() membaca isi file per baris dan akan mengembalikan nilai berupa list.
